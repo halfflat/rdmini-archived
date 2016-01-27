@@ -1,3 +1,8 @@
+# **NOTE**
+`rdmini` development is now centred on the BlueBrain/rdmini repository; this repo is being kept for reference (until we decide it's not necessary any more!)
+
+Any new forks should be taken from BlueBrain/rdmini.
+
 # rdmini
 
 Test platform for stochastic reaction-diffusion implementations.
